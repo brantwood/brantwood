@@ -2,7 +2,7 @@
 - 👀 I’m interested in Motorcyles engines, Computers and Coffee
 - 🌱 I’m currently learning HTML,CSS and Javascript
 - 💞️ I’m looking to collaborate on Anything and Everything!
-- 📫 How to reach me ...
+-  Currently a student Web Developer
 
 <!---
 brantwood/brantwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
