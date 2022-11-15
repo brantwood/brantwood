@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brantwood
-- 👀 I’m interested in Motorcyles engines, Computers and Coffee
-- 🌱 I’m currently learning HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on Anything and Everything!
+- 👀 I’m interested in Engines, Computers and Coffee
+- 🌱 I’m currently studying Front-End web development
 -  Currently a student Web Developer
 
 <!---
