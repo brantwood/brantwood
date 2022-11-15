@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brantwood
 - 👀 I’m interested in Engines, Computers and Coffee
-- 🌱 I’m currently studying Front-End web development
+- 🌱 I’m currently studying/teaching myself Front-End web development
 -  Currently a student Web Developer
 
 <!---
